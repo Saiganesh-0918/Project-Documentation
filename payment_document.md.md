@@ -88,8 +88,6 @@ const result = await stripe.redirectToCheckout({ sessionId: response.data.id });
 
 ---
 
-## 8. **Demo Link / Screenshots**
-> Add screenshots of Stripe checkout, invoice generation, and captain earnings dashboard (if available).
 
 ---
 
